@@ -14,3 +14,8 @@
   <tr><td><strong>Age:</strong></td><td align= "center">41 years</td></tr>
   <tr><td><strong>Nacionality:</strong></td><td align= "center">Portuguese  <img src= "https://img.icons8.com/?size=16&id=QH60qY9_4jHs&format=png"></td></tr>
 </table>
+<p align= "center">
+  <a href="https://github.com/lordalex07cmd">
+    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=lordalex07cmd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
