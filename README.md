@@ -5,9 +5,10 @@
 
 <p align="left"> 
   Sou Aprendiz Programador , Frequentei Engenharia informatica na Universidade Aberta,Segui outras vertentes mas nao deixei meu principal afecto pela area, Tenho alguns certificados em fundamentos de CyberSeguranca e em Cyberseguranca offensiva. 
-  
 </p>
-
+<p align="right">
+  <img src=" https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" alt="gif">
+</p>
 
 <p align="left">
  Social Midia: ⤵️
