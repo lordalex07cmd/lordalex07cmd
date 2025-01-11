@@ -2,12 +2,15 @@
 <h1 align= "center">Welcome, to my Github Page! <img src = "https://img.icons8.com/?size=48&id=1H52efUsDX7A&format=png"> </h1>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
+
 <p align="left"> 
   Sou Aprendiz Programador , Frequentei Engenharia informatica na Universidade Aberta,Segui outras vertentes mas nao deixei meu principal afecto pela area, Tenho alguns certificados em fundamentos de CyberSeguranca e em Cyberseguranca offensiva. 
 </p>
-<p align="right">
-  <img src=" https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" alt="gif"  width="80"/>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif" width="80"/>
 </p>
+
 <p align="left">
  Social Midia: ⤵️
 </p>
